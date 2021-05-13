@@ -1,0 +1,13 @@
+body {
+    background-color:rgb(198, 177, 255);
+}
+
+.jumbotron {
+    background-color:rgb(135, 66, 201);
+    text-align: right;
+}
+
+.pageTitle {
+    color:lightgrey;
+    text-align:center;
+};
