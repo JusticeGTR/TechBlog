@@ -20,6 +20,8 @@ Once everything is installed, input node server.js to initiate the app and look 
 
 ![Demonstration picture](https://github.com/JusticeGTR/TechBlog/blob/main/assets/images/Capture.PNG)  
 
+## Known Issues
+Login feature is currently having some issues and therefore is hard to test everything else. This will be fixed asap.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
